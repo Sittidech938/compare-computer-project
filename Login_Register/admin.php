@@ -46,7 +46,7 @@
         <div class="card text-center bg-primary text-white">
           <div class="card-body">
             <h5 class="card-title">Users</h5>
-            <p class="card-text fs-3">120</p>
+            <p class="card-text fs-3">120 test</p>
           </div>
         </div>
       </div>
@@ -54,7 +54,7 @@
         <div class="card text-center bg-success text-white">
           <div class="card-body">
             <h5 class="card-title">Products</h5>
-            <p class="card-text fs-3">85</p>
+            <p class="card-text fs-3">85 test</p>
           </div>
         </div>
       </div>
@@ -62,7 +62,7 @@
         <div class="card text-center bg-warning text-dark">
           <div class="card-body">
             <h5 class="card-title">Price Alerts</h5>
-            <p class="card-text fs-3">5</p>
+            <p class="card-text fs-3">5 test</p>
           </div>
         </div>
       </div>
@@ -70,7 +70,7 @@
         <div class="card text-center bg-danger text-white">
           <div class="card-body">
             <h5 class="card-title">Pending Reviews</h5>
-            <p class="card-text fs-3">8</p>
+            <p class="card-text fs-3">8 test</p>
           </div>
         </div>
       </div>
